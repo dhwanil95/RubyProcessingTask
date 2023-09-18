@@ -10,7 +10,7 @@ The output is sorted by company ID and then user last name.
 The output is written to an output.txt file in a specified format.  
 
 ### Prerequisites
-Ruby (tested with version 2.x)  
+Ruby (tested with version 3.x)  
 Installation & Setup  
 Clone this repository to your local machine:  
 
